@@ -1,7 +1,6 @@
 import React from "react";
 import "./aboutSection.css";
 import { Button, Typography, Avatar } from "@material-ui/core";
-import YouTubeIcon from "@material-ui/icons/YouTube";
 import InstagramIcon from "@material-ui/icons/Instagram";
 const About = () => {
   const visitInstagram = () => {
@@ -30,15 +29,8 @@ const About = () => {
             </span>
           </div>
           <div className="aboutSectionContainer2">
-            <Typography component="h2">Our Brands</Typography>
-            <a
-              href="https://www.youtube.com/channel/UCO7afj9AUo0zV69pqEYhcjw"
-              target="blank"
-            >
-              <YouTubeIcon className="youtubeSvgIcon" />
-            </a>
-
-            <a href="https://www.linkedin.com/in/rakshitsharmaa/" target="blank">
+            <Typography component="h2">Other Social Media Handles</Typography>
+            <a href="https://www.instagram.com/irakshitsharma/" target="blank">
               <InstagramIcon className="linkedinSvgIcon" />
             </a>
           </div>
