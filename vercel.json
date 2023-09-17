@@ -1,6 +1,11 @@
 {
     "version":2,
     "name": "my-shop",
-    "build":[{"scr": "backend/server.js","use":"@vercel/node"}],
-    "routes":[{"scr":"/(.*)", "dest":"backend/server.js"}]
+    "build":[
+        {
+            "scr": "backend/server.js","use":"@vercel/node"
+            }
+        ],
+        
+    "routes":[{"scr":"/(.*)", "dest":"/"}]
 }
