@@ -1,4 +1,5 @@
 # MyShop
+[Click Here to see the deployed version](https://myshop-ppwr.onrender.com/)
 
 Hi! My name is **Rakshit Kumar Sharma**
 
