@@ -2,7 +2,7 @@
 
 Hi! My name is **Rakshit Kumar Sharma**
 
-# Prerequisite
+# Prerequisite for the project
 
 Must have basic knowledge of **Node**, **React**, **Express**, **MongoDB** .
 
