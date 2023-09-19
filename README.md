@@ -1,4 +1,4 @@
-# MERN E-COMMERCE TUTORIAL
+# MyShop
 
 Hi! My name is **Rakshit Kumar Sharma**
 
